@@ -74,7 +74,7 @@ To analyze business trends in sales and profit, and build a basic machine learni
 ---
 
 ## 📌 Author
-**[Your Name]** – MBA Student | Aspiring Data Analyst | Python Learner
+**Sravya Togarla** – MBA Student | Aspiring Data Analyst | Python Learner
 
 ---
 
