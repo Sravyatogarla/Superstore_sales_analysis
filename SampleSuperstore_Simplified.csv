@@ -1,0 +1,6 @@
+Order ID,Order Date,Ship Mode,Customer ID,Segment,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2016-152156,11/8/16,Second Class,CG-12520,Consumer,West,Furniture,Bookcases,261.96,2,0.0,41.9136
+CA-2016-152157,11/8/16,Second Class,CG-12520,Consumer,West,Furniture,Chairs,731.94,3,0.0,219.582
+CA-2016-138688,6/12/16,Standard Class,DV-13045,Corporate,West,Office Supplies,Labels,14.62,2,0.0,6.8714
+US-2015-108966,10/11/15,Standard Class,SO-20335,Home Office,East,Technology,Phones,957.58,5,0.2,191.514
+US-2015-108967,10/11/15,Standard Class,SO-20335,Home Office,East,Technology,Phones,22.37,2,0.2,4.3984
